@@ -164,4 +164,4 @@ async def ranking(ctx):
 
 
 
-bot.run("MTI4NTI5MTYxMjEwODM1NzYzMg.GbTbto.Cob8Ja_b0R0NaxqUc8OpJomtthokl4DrQvVPyA")
+bot.run("TOKEN")
